@@ -28,7 +28,7 @@ When you click the **Render** button a document will be generated that includes 
 ```{r}
 a<-rnorm (900)
 plot (a)
-
+hist(a)
 
 ```
 
