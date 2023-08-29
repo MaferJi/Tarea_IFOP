@@ -36,7 +36,7 @@ When you click the **Render** button a document will be generated that includes 
 a<-rnorm (2000)
 plot (a)
 hist(a)
-summary (a)
+summary(a)
 
 ```
 
