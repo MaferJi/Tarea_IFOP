@@ -5,9 +5,23 @@ format: docx
 editor: visual
 ---
 
-## Quarto
+## Bióloga marina (Universidad Jorge Tadeo Lozano), Doctora en Acuicultura (PUCV). He trabajado en caracterización trófica e identificación de ítems alimentarios de peces, alimentación de larvas y juveniles de peces. Experiencia en PCR convencional para la determinación de patógenos y presencia bacteriana y PCR tiempo real cuantitativo, para análisis de expresión génica de algunos genes del sistema inmune innato de peces. 
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Además, de investigador del monitoreo de pesquería de crustáceos demersales y seguimiento de descarte de pequeños pelágicos. Actualmente trabaja en análisis de causas y lugares de descarte. Su área de interés se centra en el análisis de datos y generación de información científica de apoyo.  E-mail: mariafernanda.jimenez\@ifop.cl
+
+Proyecto de actual ejecución:
+
+·       Programa de Investigación del descarte y captura de pesca incidental en pesquerías pelágicas.
+
+Publicaciones:
+
+·       **M.F. Jiménez-Reyes.,** Carrasco, H., Olea, A.F. y E. Silva-Moreno. 2019. Natural Compounds: A sustainable alternative to the phytopathogens control. J. Chil. Chem. Soc., 64 (2): 4459-4465.
+
+·       **M.F. Jiménez-Reyes.,** Yany, G. y J. Romero. 2017.Nota Científica: \"Protocolo para obtención de alevines axénicos de trucha arcoíris (*Oncorhynchus mykiss*)\". LAJAR, 45 (5): 1064-1069.
+
+·       M.I. Hedrera., Galdames, J.A., **Jiménez-Reyes, M.F.,** Reyes, A.E., Avendaño-Herrera, R., Romero J y C.G. Feijó. 2013. Soybean meal induces intestinal inflammation in zebrafish larvae. Plos One., 8 (7): 1-10.
+
+·       P. Cogua., **Jiménez-Reyes, M.F**. y G. Duque.2013. Nota Científica: \"Relaciones tróficas de cinco especies de peces de interés comercial en la bahía de Cartagena, Caribe colombiano\". Anales de Instituto de Investigaciones Marinas y Costeras. INVEMAR. Santa Marta, Colombia. Bol. Invest. Mar. Cost., 42 (1): 185-192.
 
 ## Running Code
 
