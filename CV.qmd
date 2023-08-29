@@ -1,11 +1,13 @@
 ---
 title: "Curriculum Vitae"
 author: "Maria Fernanda jimenez"
-format: docx
+format: pdf
+lang: es
 editor: visual
 ---
 
-## Bióloga marina (Universidad Jorge Tadeo Lozano), Doctora en Acuicultura (PUCV). He trabajado en caracterización trófica e identificación de ítems alimentarios de peces, alimentación de larvas y juveniles de peces. Experiencia en PCR convencional para la determinación de patógenos y presencia bacteriana y PCR tiempo real cuantitativo, para análisis de expresión génica de algunos genes del sistema inmune innato de peces. 
+## Resumen
+Bióloga marina (Universidad Jorge Tadeo Lozano), Doctora en Acuicultura (PUCV). He trabajado en caracterización trófica e identificación de ítems alimentarios de peces, alimentación de larvas y juveniles de peces. Experiencia en PCR convencional para la determinación de patógenos y presencia bacteriana y PCR tiempo real cuantitativo, para análisis de expresión génica de algunos genes del sistema inmune innato de peces. 
 
 Voy a agregar algo de texto
 
